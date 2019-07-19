@@ -16,3 +16,6 @@
 
 # Auto include makefiles
 .Makefile.terraform
+
+# ctags
+tags.lock
